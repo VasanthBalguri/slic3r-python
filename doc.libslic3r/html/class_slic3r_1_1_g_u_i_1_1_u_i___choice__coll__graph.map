@@ -1,7 +1,0 @@
-<map id="Slic3r::GUI::UI_Choice" name="Slic3r::GUI::UI_Choice">
-<area shape="rect" id="node1" title=" " alt="" coords="8,336,165,363"/>
-<area shape="rect" id="node2" href="$class_slic3r_1_1_g_u_i_1_1_u_i___window.html" title="Organizing class for single&#45;part UI elements." alt="" coords="5,260,168,287"/>
-<area shape="rect" id="node3" href="$class_slic3r_1_1_g_u_i_1_1_u_i___field.html" title=" " alt="" coords="15,184,159,211"/>
-<area shape="rect" id="node4" href="$class_slic3r_1_1_config_option_def.html" title="Definition of a configuration value for the purpose of GUI presentation, editing, value mapping and c..." alt="" coords="7,95,167,121"/>
-<area shape="rect" id="node5" href="$class_slic3r_1_1_config_option.html" title="Public interface for configuration options." alt="" coords="17,5,156,32"/>
-</map>

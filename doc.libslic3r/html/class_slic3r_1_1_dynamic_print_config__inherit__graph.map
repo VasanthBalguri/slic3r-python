@@ -1,6 +1,0 @@
-<map id="Slic3r::DynamicPrintConfig" name="Slic3r::DynamicPrintConfig">
-<area shape="rect" id="node1" title=" " alt="" coords="84,155,264,181"/>
-<area shape="rect" id="node2" href="$class_slic3r_1_1_print_config_base.html" title=" " alt="" coords="5,80,164,107"/>
-<area shape="rect" id="node3" href="$class_slic3r_1_1_config_base.html" title="An abstract configuration store." alt="" coords="109,5,239,32"/>
-<area shape="rect" id="node4" href="$class_slic3r_1_1_dynamic_config.html" title=" " alt="" coords="188,80,341,107"/>
-</map>

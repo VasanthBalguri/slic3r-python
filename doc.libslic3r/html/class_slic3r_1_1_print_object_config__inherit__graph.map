@@ -1,8 +1,0 @@
-<map id="Slic3r::PrintObjectConfig" name="Slic3r::PrintObjectConfig">
-<area shape="rect" id="node1" title=" " alt="" coords="87,229,253,256"/>
-<area shape="rect" id="node6" href="$class_slic3r_1_1_full_print_config.html" title=" " alt="" coords="95,304,245,331"/>
-<area shape="rect" id="node2" href="$class_slic3r_1_1_static_print_config.html" title=" " alt="" coords="89,155,251,181"/>
-<area shape="rect" id="node3" href="$class_slic3r_1_1_print_config_base.html" title=" " alt="" coords="5,80,164,107"/>
-<area shape="rect" id="node4" href="$class_slic3r_1_1_config_base.html" title="An abstract configuration store." alt="" coords="105,5,235,32"/>
-<area shape="rect" id="node5" href="$class_slic3r_1_1_static_config.html" title=" " alt="" coords="188,80,323,107"/>
-</map>

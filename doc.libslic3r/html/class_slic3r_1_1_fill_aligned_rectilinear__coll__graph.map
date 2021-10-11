@@ -1,8 +1,0 @@
-<map id="Slic3r::FillAlignedRectilinear" name="Slic3r::FillAlignedRectilinear">
-<area shape="rect" id="node1" title=" " alt="" coords="5,441,191,468"/>
-<area shape="rect" id="node2" href="$class_slic3r_1_1_fill_rectilinear.html" title=" " alt="" coords="27,365,169,392"/>
-<area shape="rect" id="node3" href="$class_slic3r_1_1_fill.html" title="Abstract base class for the infill generators." alt="" coords="58,289,138,316"/>
-<area shape="rect" id="node4" href="$class_slic3r_1_1_bounding_box.html" title=" " alt="" coords="28,200,168,227"/>
-<area shape="rect" id="node5" href="$class_slic3r_1_1_bounding_box_base.html" title=" " alt="" coords="13,109,183,151"/>
-<area shape="rect" id="node6" href="$class_slic3r_1_1_point.html" title=" " alt="" coords="51,5,145,32"/>
-</map>

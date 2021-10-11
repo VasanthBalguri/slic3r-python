@@ -1,5 +1,0 @@
-<map id="Slic3r::FillOctagramSpiral" name="Slic3r::FillOctagramSpiral">
-<area shape="rect" id="node1" title=" " alt="" coords="5,155,176,181"/>
-<area shape="rect" id="node2" href="$class_slic3r_1_1_fill_plane_path.html" title=" " alt="" coords="21,80,161,107"/>
-<area shape="rect" id="node3" href="$class_slic3r_1_1_fill.html" title="Abstract base class for the infill generators." alt="" coords="51,5,131,32"/>
-</map>

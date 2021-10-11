@@ -1,6 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,56,104,83"/>
-<area shape="rect" id="node2" href="$class_slic3r_1_1_invalid_config_option.html" title="Exception class to handle config options that don&#39;t exist." alt="" coords="152,5,329,32"/>
-<area shape="rect" id="node3" href="$class_slic3r_1_1_invalid_option_type.html" title="Exception class for type mismatches." alt="" coords="157,56,324,83"/>
-<area shape="rect" id="node4" href="$class_slic3r_1_1_invalid_option_value.html" title=" " alt="" coords="155,107,326,133"/>
-</map>

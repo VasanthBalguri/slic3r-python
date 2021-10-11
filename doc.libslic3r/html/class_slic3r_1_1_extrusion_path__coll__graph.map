@@ -1,6 +1,0 @@
-<map id="Slic3r::ExtrusionPath" name="Slic3r::ExtrusionPath">
-<area shape="rect" id="node1" title=" " alt="" coords="58,171,203,197"/>
-<area shape="rect" id="node2" href="$class_slic3r_1_1_extrusion_entity.html" title=" " alt="" coords="5,81,157,108"/>
-<area shape="rect" id="node3" href="$class_slic3r_1_1_polyline.html" title=" " alt="" coords="181,81,291,108"/>
-<area shape="rect" id="node4" href="$class_slic3r_1_1_multi_point.html" title=" " alt="" coords="175,5,297,32"/>
-</map>

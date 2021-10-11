@@ -1,5 +1,0 @@
-<map id="Slic3r::FillHilbertCurve" name="Slic3r::FillHilbertCurve">
-<area shape="rect" id="node1" title=" " alt="" coords="5,155,159,181"/>
-<area shape="rect" id="node2" href="$class_slic3r_1_1_fill_plane_path.html" title=" " alt="" coords="12,80,152,107"/>
-<area shape="rect" id="node3" href="$class_slic3r_1_1_fill.html" title="Abstract base class for the infill generators." alt="" coords="42,5,122,32"/>
-</map>

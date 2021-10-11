@@ -1,7 +1,0 @@
-<map id="Slic3r::FillPlanePath" name="Slic3r::FillPlanePath">
-<area shape="rect" id="node1" title=" " alt="" coords="235,80,375,107"/>
-<area shape="rect" id="node3" href="$class_slic3r_1_1_fill_archimedean_chords.html" title=" " alt="" coords="5,155,204,181"/>
-<area shape="rect" id="node4" href="$class_slic3r_1_1_fill_hilbert_curve.html" title=" " alt="" coords="228,155,381,181"/>
-<area shape="rect" id="node5" href="$class_slic3r_1_1_fill_octagram_spiral.html" title=" " alt="" coords="406,155,577,181"/>
-<area shape="rect" id="node2" href="$class_slic3r_1_1_fill.html" title="Abstract base class for the infill generators." alt="" coords="265,5,345,32"/>
-</map>

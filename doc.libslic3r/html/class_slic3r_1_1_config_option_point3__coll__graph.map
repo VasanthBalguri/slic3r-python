@@ -1,7 +1,0 @@
-<map id="Slic3r::ConfigOptionPoint3" name="Slic3r::ConfigOptionPoint3">
-<area shape="rect" id="node1" title="Configuration option to store a 3D (x,y,z) tuple." alt="" coords="33,261,209,288"/>
-<area shape="rect" id="node2" href="$class_slic3r_1_1_config_option_single.html" title=" " alt="" coords="34,171,209,212"/>
-<area shape="rect" id="node3" href="$class_slic3r_1_1_config_option.html" title="Public interface for configuration options." alt="" coords="5,81,144,108"/>
-<area shape="rect" id="node4" href="$class_slic3r_1_1_pointf3.html" title=" " alt="" coords="168,81,272,108"/>
-<area shape="rect" id="node5" href="$class_slic3r_1_1_pointf.html" title=" " alt="" coords="171,5,269,32"/>
-</map>

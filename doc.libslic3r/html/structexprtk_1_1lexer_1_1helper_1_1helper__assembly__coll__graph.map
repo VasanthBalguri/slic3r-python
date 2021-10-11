@@ -1,8 +1,0 @@
-<map id="exprtk::lexer::helper::helper_assembly" name="exprtk::lexer::helper::helper_assembly">
-<area shape="rect" id="node1" title=" " alt="" coords="497,101,635,143"/>
-<area shape="rect" id="node2" href="$classexprtk_1_1lexer_1_1token__scanner.html" title=" " alt="" coords="192,5,327,47"/>
-<area shape="rect" id="node3" href="$classexprtk_1_1lexer_1_1helper__interface.html" title=" " alt="" coords="5,104,143,145"/>
-<area shape="rect" id="node4" href="$classexprtk_1_1lexer_1_1token__joiner.html" title=" " alt="" coords="192,71,327,112"/>
-<area shape="rect" id="node5" href="$classexprtk_1_1lexer_1_1token__inserter.html" title=" " alt="" coords="192,136,327,177"/>
-<area shape="rect" id="node6" href="$classexprtk_1_1lexer_1_1token__modifier.html" title=" " alt="" coords="192,201,327,243"/>
-</map>
