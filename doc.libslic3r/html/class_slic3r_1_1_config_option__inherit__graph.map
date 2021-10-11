@@ -1,0 +1,42 @@
+<map id="Slic3r::ConfigOption" name="Slic3r::ConfigOption">
+<area shape="rect" id="node1" title="Public interface for configuration options." alt="" coords="5,405,144,431"/>
+<area shape="rect" id="node2" href="$class_slic3r_1_1_config_option_single.html" title=" " alt="" coords="208,5,383,47"/>
+<area shape="rect" id="node4" href="$class_slic3r_1_1_config_option_single.html" title=" " alt="" coords="208,71,383,112"/>
+<area shape="rect" id="node8" href="$class_slic3r_1_1_config_option_single.html" title=" " alt="" coords="208,136,383,177"/>
+<area shape="rect" id="node10" href="$class_slic3r_1_1_config_option_single.html" title=" " alt="" coords="208,201,383,243"/>
+<area shape="rect" id="node12" href="$class_slic3r_1_1_config_option_single.html" title=" " alt="" coords="208,267,383,308"/>
+<area shape="rect" id="node14" href="$class_slic3r_1_1_config_option_single.html" title=" " alt="" coords="208,332,383,373"/>
+<area shape="rect" id="node17" href="$class_slic3r_1_1_config_option_single.html" title=" " alt="" coords="208,397,383,439"/>
+<area shape="rect" id="node19" href="$class_slic3r_1_1_config_option_single.html" title=" " alt="" coords="208,463,383,504"/>
+<area shape="rect" id="node21" href="$class_slic3r_1_1_config_option_single.html" title=" " alt="" coords="208,528,383,569"/>
+<area shape="rect" id="node23" href="$class_slic3r_1_1_config_option_single.html" title=" " alt="" coords="208,593,383,635"/>
+<area shape="rect" id="node25" href="$class_slic3r_1_1_config_option_single.html" title=" " alt="" coords="206,659,385,700"/>
+<area shape="rect" id="node27" href="$class_slic3r_1_1_config_option_single.html" title="Value of a single valued option (bool, int, float, string, point, enum)" alt="" coords="192,725,399,751"/>
+<area shape="rect" id="node29" href="$class_slic3r_1_1_config_option_vector_base.html" title="Virtual base class, represents value of a vector valued option (bools, ints, floats,..." alt="" coords="192,914,399,941"/>
+<area shape="rect" id="node3" href="$class_slic3r_1_1_config_option_bool.html" title="Represents a boolean flag." alt="" coords="469,13,634,39"/>
+<area shape="rect" id="node5" href="$class_slic3r_1_1_config_option_float.html" title=" " alt="" coords="467,78,635,105"/>
+<area shape="rect" id="node6" href="$class_slic3r_1_1_config_option_percent.html" title="Specialized floating point class to represent some percentage value of another numeric configuration ..." alt="" coords="704,78,888,105"/>
+<area shape="rect" id="node7" href="$class_slic3r_1_1_config_option_float_or_percent.html" title=" " alt="" coords="936,71,1104,112"/>
+<area shape="rect" id="node9" href="$class_slic3r_1_1_config_option_enum.html" title=" " alt="" coords="465,136,638,177"/>
+<area shape="rect" id="node11" href="$class_slic3r_1_1_config_option_enum.html" title=" " alt="" coords="465,201,638,243"/>
+<area shape="rect" id="node13" href="$class_slic3r_1_1_config_option_enum.html" title=" " alt="" coords="465,267,638,308"/>
+<area shape="rect" id="node15" href="$class_slic3r_1_1_config_option_int.html" title=" " alt="" coords="474,339,629,366"/>
+<area shape="rect" id="node16" href="$class_slic3r_1_1_config_option_enum_generic.html" title="Generic enum configuration value." alt="" coords="709,332,883,373"/>
+<area shape="rect" id="node18" href="$class_slic3r_1_1_config_option_point.html" title="Configuration option to store a 2D (x,y) tuple." alt="" coords="467,405,636,431"/>
+<area shape="rect" id="node20" href="$class_slic3r_1_1_config_option_point3.html" title="Configuration option to store a 3D (x,y,z) tuple." alt="" coords="463,470,639,497"/>
+<area shape="rect" id="node22" href="$class_slic3r_1_1_config_option_enum.html" title=" " alt="" coords="465,528,638,569"/>
+<area shape="rect" id="node24" href="$class_slic3r_1_1_config_option_string.html" title=" " alt="" coords="465,601,638,627"/>
+<area shape="rect" id="node26" href="$class_slic3r_1_1_config_option_enum.html" title=" " alt="" coords="462,659,641,700"/>
+<area shape="rect" id="node28" href="$class_slic3r_1_1_config_option_enum.html" title="Templated enumeration representation." alt="" coords="449,725,654,751"/>
+<area shape="rect" id="node30" href="$class_slic3r_1_1_config_option_vector.html" title=" " alt="" coords="463,776,640,817"/>
+<area shape="rect" id="node32" href="$class_slic3r_1_1_config_option_vector.html" title=" " alt="" coords="463,841,640,883"/>
+<area shape="rect" id="node34" href="$class_slic3r_1_1_config_option_vector.html" title=" " alt="" coords="463,907,640,948"/>
+<area shape="rect" id="node36" href="$class_slic3r_1_1_config_option_vector.html" title=" " alt="" coords="463,972,640,1013"/>
+<area shape="rect" id="node38" href="$class_slic3r_1_1_config_option_vector.html" title=" " alt="" coords="463,1037,640,1079"/>
+<area shape="rect" id="node40" href="$class_slic3r_1_1_config_option_vector.html" title="Value of a vector valued option (bools, ints, floats, strings, points), template." alt="" coords="447,1103,656,1130"/>
+<area shape="rect" id="node31" href="$class_slic3r_1_1_config_option_bools.html" title=" " alt="" coords="710,783,882,810"/>
+<area shape="rect" id="node33" href="$class_slic3r_1_1_config_option_floats.html" title="Vector form of template specialization for floating point numbers." alt="" coords="709,849,883,875"/>
+<area shape="rect" id="node35" href="$class_slic3r_1_1_config_option_ints.html" title=" " alt="" coords="715,914,877,941"/>
+<area shape="rect" id="node37" href="$class_slic3r_1_1_config_option_points.html" title=" " alt="" coords="708,979,884,1006"/>
+<area shape="rect" id="node39" href="$class_slic3r_1_1_config_option_strings.html" title="semicolon&#45;separated strings" alt="" coords="706,1045,886,1071"/>
+</map>

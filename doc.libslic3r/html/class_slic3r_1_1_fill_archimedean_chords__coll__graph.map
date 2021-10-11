@@ -1,0 +1,8 @@
+<map id="Slic3r::FillArchimedeanChords" name="Slic3r::FillArchimedeanChords">
+<area shape="rect" id="node1" title=" " alt="" coords="5,441,204,468"/>
+<area shape="rect" id="node2" href="$class_slic3r_1_1_fill_plane_path.html" title=" " alt="" coords="35,365,175,392"/>
+<area shape="rect" id="node3" href="$class_slic3r_1_1_fill.html" title="Abstract base class for the infill generators." alt="" coords="65,289,145,316"/>
+<area shape="rect" id="node4" href="$class_slic3r_1_1_bounding_box.html" title=" " alt="" coords="35,200,175,227"/>
+<area shape="rect" id="node5" href="$class_slic3r_1_1_bounding_box_base.html" title=" " alt="" coords="19,109,190,151"/>
+<area shape="rect" id="node6" href="$class_slic3r_1_1_point.html" title=" " alt="" coords="58,5,151,32"/>
+</map>

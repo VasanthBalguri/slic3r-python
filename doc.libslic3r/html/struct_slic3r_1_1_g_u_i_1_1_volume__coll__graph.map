@@ -1,0 +1,9 @@
+<map id="Slic3r::GUI::Volume" name="Slic3r::GUI::Volume">
+<area shape="rect" id="node1" title=" " alt="" coords="97,456,236,483"/>
+<area shape="rect" id="node2" href="$class_slic3r_1_1_bounding_boxf3.html" title=" " alt="" coords="91,367,242,393"/>
+<area shape="rect" id="node3" href="$class_slic3r_1_1_bounding_box3_base.html" title=" " alt="" coords="97,276,274,317"/>
+<area shape="rect" id="node4" href="$class_slic3r_1_1_bounding_box_base.html" title=" " alt="" coords="87,185,257,227"/>
+<area shape="rect" id="node5" href="$class_slic3r_1_1_pointf3.html" title=" " alt="" coords="5,81,109,108"/>
+<area shape="rect" id="node6" href="$class_slic3r_1_1_pointf.html" title=" " alt="" coords="9,5,106,32"/>
+<area shape="rect" id="node7" href="$class_slic3r_1_1_g_l_vertex_array.html" title=" " alt="" coords="266,367,414,393"/>
+</map>

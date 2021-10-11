@@ -1,0 +1,6 @@
+<map id="Slic3r::ConfigOptionInt" name="Slic3r::ConfigOptionInt">
+<area shape="rect" id="node1" title=" " alt="" coords="15,169,170,196"/>
+<area shape="rect" id="node4" href="$class_slic3r_1_1_config_option_enum_generic.html" title="Generic enum configuration value." alt="" coords="6,244,179,285"/>
+<area shape="rect" id="node2" href="$class_slic3r_1_1_config_option_single.html" title=" " alt="" coords="5,80,180,121"/>
+<area shape="rect" id="node3" href="$class_slic3r_1_1_config_option.html" title="Public interface for configuration options." alt="" coords="23,5,162,32"/>
+</map>

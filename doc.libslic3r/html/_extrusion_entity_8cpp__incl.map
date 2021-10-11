@@ -1,0 +1,47 @@
+<map id="xs/src/libslic3r/ExtrusionEntity.cpp" name="xs/src/libslic3r/ExtrusionEntity.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1468,5,1633,47"/>
+<area shape="rect" id="node2" href="$_extrusion_entity_8hpp.html" title=" " alt="" coords="1599,393,1734,420"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1075,916,1144,943"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1057,692,1132,719"/>
+<area shape="rect" id="node28" href="$_extrusion_entity_collection_8hpp.html" title=" " alt="" coords="1639,319,1833,345"/>
+<area shape="rect" id="node29" href="$_ex_polygon_collection_8hpp.html" title=" " alt="" coords="1396,319,1564,345"/>
+<area shape="rect" id="node32" href="$_clipper_utils_8hpp.html" title=" " alt="" coords="295,244,409,271"/>
+<area shape="rect" id="node34" href="$_extruder_8hpp.html" title=" " alt="" coords="1389,95,1483,121"/>
+<area shape="rect" id="node44" title=" " alt="" coords="1689,95,1748,121"/>
+<area shape="rect" id="node45" title=" " alt="" coords="1772,95,1825,121"/>
+<area shape="rect" id="node3" href="$libslic3r_8h.html" title=" " alt="" coords="982,841,1058,868"/>
+<area shape="rect" id="node12" href="$_polygon_8hpp.html" title=" " alt="" coords="1561,543,1655,569"/>
+<area shape="rect" id="node20" href="$_polyline_8hpp.html" title=" " alt="" coords="1632,468,1725,495"/>
+<area shape="rect" id="node4" title=" " alt="" coords="72,916,141,943"/>
+<area shape="rect" id="node5" title=" " alt="" coords="2196,916,2268,943"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1399,916,1462,943"/>
+<area shape="rect" id="node7" title=" " alt="" coords="498,916,555,943"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1933,916,1992,943"/>
+<area shape="rect" id="node10" title=" " alt="" coords="846,916,965,943"/>
+<area shape="rect" id="node11" title=" " alt="" coords="989,916,1051,943"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2087,841,2142,868"/>
+<area shape="rect" id="node14" href="$_line_8hpp.html" title=" " alt="" coords="1601,692,1671,719"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1395,841,1573,868"/>
+<area shape="rect" id="node18" href="$_multi_point_8hpp.html" title=" " alt="" coords="1611,617,1717,644"/>
+<area shape="rect" id="node15" href="$_point_8hpp.html" title=" " alt="" coords="1697,767,1775,793"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1699,841,1824,868"/>
+<area shape="rect" id="node21" href="$clipper_8hpp.html" title=" " alt="" coords="702,543,786,569"/>
+<area shape="rect" id="node22" title=" " alt="" coords="839,617,878,644"/>
+<area shape="rect" id="node23" title=" " alt="" coords="903,617,943,644"/>
+<area shape="rect" id="node24" title=" " alt="" coords="967,617,1046,644"/>
+<area shape="rect" id="node25" title=" " alt="" coords="651,617,712,644"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1070,617,1130,644"/>
+<area shape="rect" id="node27" title=" " alt="" coords="737,617,815,644"/>
+<area shape="rect" id="node30" href="$_ex_polygon_8hpp.html" title=" " alt="" coords="910,393,1021,420"/>
+<area shape="rect" id="node31" href="$_bounding_box_8hpp.html" title=" " alt="" coords="1050,468,1174,495"/>
+<area shape="rect" id="node33" href="$_surface_8hpp.html" title=" " alt="" coords="347,319,439,345"/>
+<area shape="rect" id="node35" href="$_print_config_8hpp.html" title=" " alt="" coords="1351,169,1463,196"/>
+<area shape="rect" id="node36" href="$_config_base_8hpp.html" title=" " alt="" coords="1913,244,2028,271"/>
+<area shape="rect" id="node37" title=" " alt="" coords="1909,319,1955,345"/>
+<area shape="rect" id="node38" title=" " alt="" coords="1979,319,2039,345"/>
+<area shape="rect" id="node39" title=" " alt="" coords="2063,319,2121,345"/>
+<area shape="rect" id="node40" title=" " alt="" coords="2145,319,2223,345"/>
+<area shape="rect" id="node41" href="$utils_8hpp.html" title=" " alt="" coords="2254,767,2325,793"/>
+<area shape="rect" id="node42" href="$_geometry_8hpp.html" title=" " alt="" coords="1206,319,1309,345"/>
+<area shape="rect" id="node43" title=" " alt="" coords="1045,393,1219,420"/>
+</map>

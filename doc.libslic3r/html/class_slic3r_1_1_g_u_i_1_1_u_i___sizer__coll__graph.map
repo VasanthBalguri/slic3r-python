@@ -1,0 +1,6 @@
+<map id="Slic3r::GUI::UI_Sizer" name="Slic3r::GUI::UI_Sizer">
+<area shape="rect" id="node1" title="Organizing class for multi&#45;part UI elements." alt="" coords="12,260,159,287"/>
+<area shape="rect" id="node2" href="$class_slic3r_1_1_g_u_i_1_1_u_i___field.html" title=" " alt="" coords="13,184,157,211"/>
+<area shape="rect" id="node3" href="$class_slic3r_1_1_config_option_def.html" title="Definition of a configuration value for the purpose of GUI presentation, editing, value mapping and c..." alt="" coords="5,95,165,121"/>
+<area shape="rect" id="node4" href="$class_slic3r_1_1_config_option.html" title="Public interface for configuration options." alt="" coords="16,5,155,32"/>
+</map>

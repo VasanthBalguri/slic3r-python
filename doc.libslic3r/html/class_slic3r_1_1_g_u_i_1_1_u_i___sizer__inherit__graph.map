@@ -1,0 +1,7 @@
+<map id="Slic3r::GUI::UI_Sizer" name="Slic3r::GUI::UI_Sizer">
+<area shape="rect" id="node1" title="Organizing class for multi&#45;part UI elements." alt="" coords="180,80,327,107"/>
+<area shape="rect" id="node3" href="$class_slic3r_1_1_g_u_i_1_1_u_i___point.html" title=" " alt="" coords="5,155,152,181"/>
+<area shape="rect" id="node4" href="$class_slic3r_1_1_g_u_i_1_1_u_i___point3.html" title=" " alt="" coords="177,155,330,181"/>
+<area shape="rect" id="node5" href="$class_slic3r_1_1_g_u_i_1_1_u_i___slider.html" title=" " alt="" coords="355,155,504,181"/>
+<area shape="rect" id="node2" href="$class_slic3r_1_1_g_u_i_1_1_u_i___field.html" title=" " alt="" coords="181,5,325,32"/>
+</map>

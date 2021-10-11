@@ -1,0 +1,7 @@
+<map id="Slic3r::ConfigOptionFloatOrPercent" name="Slic3r::ConfigOptionFloatOrPercent">
+<area shape="rect" id="node1" title=" " alt="" coords="13,319,181,360"/>
+<area shape="rect" id="node2" href="$class_slic3r_1_1_config_option_percent.html" title="Specialized floating point class to represent some percentage value of another numeric configuration ..." alt="" coords="5,244,189,271"/>
+<area shape="rect" id="node3" href="$class_slic3r_1_1_config_option_float.html" title=" " alt="" coords="13,169,181,196"/>
+<area shape="rect" id="node4" href="$class_slic3r_1_1_config_option_single.html" title=" " alt="" coords="10,80,185,121"/>
+<area shape="rect" id="node5" href="$class_slic3r_1_1_config_option.html" title="Public interface for configuration options." alt="" coords="28,5,167,32"/>
+</map>

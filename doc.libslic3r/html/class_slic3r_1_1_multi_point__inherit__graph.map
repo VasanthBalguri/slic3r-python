@@ -1,0 +1,6 @@
+<map id="Slic3r::MultiPoint" name="Slic3r::MultiPoint">
+<area shape="rect" id="node1" title=" " alt="" coords="67,5,188,32"/>
+<area shape="rect" id="node2" href="$class_slic3r_1_1_polygon.html" title=" " alt="" coords="5,80,116,107"/>
+<area shape="rect" id="node3" href="$class_slic3r_1_1_polyline.html" title=" " alt="" coords="141,80,250,107"/>
+<area shape="rect" id="node4" href="$class_slic3r_1_1_thick_polyline.html" title=" " alt="" coords="125,155,266,181"/>
+</map>

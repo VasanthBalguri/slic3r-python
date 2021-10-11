@@ -1,0 +1,5 @@
+<map id="Slic3r::GUI::Option" name="Slic3r::GUI::Option">
+<area shape="rect" id="node1" title="Class to." alt="" coords="19,184,152,211"/>
+<area shape="rect" id="node2" href="$class_slic3r_1_1_config_option_def.html" title="Definition of a configuration value for the purpose of GUI presentation, editing, value mapping and c..." alt="" coords="5,95,165,121"/>
+<area shape="rect" id="node3" href="$class_slic3r_1_1_config_option.html" title="Public interface for configuration options." alt="" coords="16,5,155,32"/>
+</map>

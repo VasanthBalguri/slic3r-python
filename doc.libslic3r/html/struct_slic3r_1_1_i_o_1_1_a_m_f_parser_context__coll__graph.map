@@ -1,0 +1,52 @@
+<map id="Slic3r::IO::AMFParserContext" name="Slic3r::IO::AMFParserContext">
+<area shape="rect" id="node1" title=" " alt="" coords="1721,1332,1919,1359"/>
+<area shape="rect" id="node2" href="$struct_slic3r_1_1_i_o_1_1_a_m_f_parser_context_1_1_instance.html" title=" " alt="" coords="1404,511,1601,553"/>
+<area shape="rect" id="node3" href="$struct_x_m_l___parser_struct.html" title=" " alt="" coords="1438,660,1567,687"/>
+<area shape="rect" id="node4" href="$struct_d_t_d.html" title=" " alt="" coords="1067,135,1118,161"/>
+<area shape="rect" id="node5" href="$structprefix.html" title=" " alt="" coords="177,923,231,949"/>
+<area shape="rect" id="node6" href="$structbinding.html" title=" " alt="" coords="721,921,784,948"/>
+<area shape="rect" id="node7" href="$structattribute__id.html" title=" " alt="" coords="387,1107,474,1133"/>
+<area shape="rect" id="node26" href="$struct_e_l_e_m_e_n_t___t_y_p_e.html" title=" " alt="" coords="1029,1204,1156,1231"/>
+<area shape="rect" id="node14" href="$structtag.html" title=" " alt="" coords="1073,939,1113,965"/>
+<area shape="rect" id="node27" href="$struct_d_e_f_a_u_l_t___a_t_t_r_i_b_u_t_e.html" title=" " alt="" coords="671,1220,835,1247"/>
+<area shape="rect" id="node8" href="$struct_c_o_n_t_e_n_t___s_c_a_f_f_o_l_d.html" title=" " alt="" coords="670,167,835,193"/>
+<area shape="rect" id="node9" href="$struct_s_t_r_i_n_g___p_o_o_l.html" title=" " alt="" coords="695,116,811,143"/>
+<area shape="rect" id="node10" href="$structblock.html" title=" " alt="" coords="404,116,457,143"/>
+<area shape="rect" id="node11" href="$struct_x_m_l___memory___handling___suite.html" title=" " alt="" coords="350,269,511,310"/>
+<area shape="rect" id="node12" href="$struct_h_a_s_h___t_a_b_l_e.html" title=" " alt="" coords="699,311,807,337"/>
+<area shape="rect" id="node13" href="$struct_n_a_m_e_d.html" title=" " alt="" coords="395,335,466,361"/>
+<area shape="rect" id="node15" href="$struct_t_a_g___n_a_m_e.html" title=" " alt="" coords="705,972,800,999"/>
+<area shape="rect" id="node16" href="$struct_e_n_t_i_t_y.html" title=" " alt="" coords="717,1044,788,1071"/>
+<area shape="rect" id="node24" href="$structopen__internal__entity.html" title=" " alt="" coords="1023,1028,1162,1055"/>
+<area shape="rect" id="node17" href="$structprolog__state.html" title=" " alt="" coords="1046,579,1139,605"/>
+<area shape="rect" id="node18" href="$structencoding.html" title=" " alt="" coords="715,660,790,687"/>
+<area shape="rect" id="node28" href="$struct_i_n_i_t___e_n_c_o_d_i_n_g.html" title=" " alt="" coords="1029,721,1157,748"/>
+<area shape="rect" id="node19" href="$structposition.html" title=" " alt="" coords="397,732,464,759"/>
+<area shape="rect" id="node20" href="$struct_a_t_t_r_i_b_u_t_e.html" title=" " alt="" coords="383,561,479,588"/>
+<area shape="rect" id="node21" href="$struct_x_m_l__cp.html" title=" " alt="" coords="1057,224,1128,251"/>
+<area shape="rect" id="node22" href="$struct_x_m_l___encoding.html" title=" " alt="" coords="1037,275,1148,301"/>
+<area shape="rect" id="node23" href="$struct_n_s___a_t_t.html" title=" " alt="" coords="1057,325,1129,352"/>
+<area shape="rect" id="node25" href="$struct_x_m_l___parsing_status.html" title=" " alt="" coords="1023,427,1162,453"/>
+<area shape="rect" id="node29" href="$class_slic3r_1_1_model.html" title=" " alt="" coords="1453,1309,1552,1336"/>
+<area shape="rect" id="node30" href="$class_slic3r_1_1_model_object.html" title=" " alt="" coords="1435,1360,1571,1387"/>
+<area shape="rect" id="node31" href="$class_slic3r_1_1_bounding_boxf3.html" title=" " alt="" coords="1017,1339,1168,1365"/>
+<area shape="rect" id="node32" href="$class_slic3r_1_1_bounding_box3_base.html" title=" " alt="" coords="664,1322,841,1363"/>
+<area shape="rect" id="node33" href="$class_slic3r_1_1_bounding_box_base.html" title=" " alt="" coords="345,1323,516,1365"/>
+<area shape="rect" id="node34" href="$class_slic3r_1_1_pointf3.html" title=" " alt="" coords="152,1364,256,1391"/>
+<area shape="rect" id="node35" href="$class_slic3r_1_1_pointf.html" title=" " alt="" coords="5,1364,103,1391"/>
+<area shape="rect" id="node36" href="$class_slic3r_1_1_layer_height_spline.html" title=" " alt="" coords="1008,1288,1177,1315"/>
+<area shape="rect" id="node37" href="$class_slic3r_1_1_dynamic_print_config.html" title=" " alt="" coords="1003,1469,1183,1496"/>
+<area shape="rect" id="node41" href="$class_slic3r_1_1_model_material.html" title=" " alt="" coords="1431,1448,1575,1475"/>
+<area shape="rect" id="node42" href="$class_slic3r_1_1_model_volume.html" title=" " alt="" coords="1431,1515,1574,1541"/>
+<area shape="rect" id="node38" href="$class_slic3r_1_1_print_config_base.html" title=" " alt="" coords="673,1451,832,1477"/>
+<area shape="rect" id="node39" href="$class_slic3r_1_1_config_base.html" title="An abstract configuration store." alt="" coords="365,1456,496,1483"/>
+<area shape="rect" id="node40" href="$class_slic3r_1_1_dynamic_config.html" title=" " alt="" coords="676,1501,829,1528"/>
+<area shape="rect" id="node43" href="$class_slic3r_1_1_triangle_mesh.html" title=" " alt="" coords="1022,1595,1163,1621"/>
+<area shape="rect" id="node44" href="$structstl__file.html" title=" " alt="" coords="723,1656,783,1683"/>
+<area shape="rect" id="node45" href="$structstl__facet.html" title=" " alt="" coords="395,1707,467,1733"/>
+<area shape="rect" id="node46" href="$structstl__vertex.html" title=" " alt="" coords="165,1759,243,1785"/>
+<area shape="rect" id="node50" href="$structstl__edge.html" title=" " alt="" coords="395,1820,466,1847"/>
+<area shape="rect" id="node47" href="$structv__indices__struct.html" title=" " alt="" coords="372,1516,489,1543"/>
+<area shape="rect" id="node48" href="$structstl__neighbors.html" title=" " alt="" coords="381,1567,480,1593"/>
+<area shape="rect" id="node49" href="$structstl__hash__edge.html" title=" " alt="" coords="377,1656,484,1683"/>
+</map>

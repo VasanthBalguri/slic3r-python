@@ -1,0 +1,10 @@
+<map id="Slic3r::GUI::UI_Window" name="Slic3r::GUI::UI_Window">
+<area shape="rect" id="node1" title="Organizing class for single&#45;part UI elements." alt="" coords="197,132,360,159"/>
+<area shape="rect" id="node3" href="$class_slic3r_1_1_g_u_i_1_1_u_i___checkbox.html" title=" " alt="" coords="413,5,588,32"/>
+<area shape="rect" id="node4" href="$class_slic3r_1_1_g_u_i_1_1_u_i___choice.html" title=" " alt="" coords="422,56,579,83"/>
+<area shape="rect" id="node5" href="$class_slic3r_1_1_g_u_i_1_1_u_i___color.html" title=" " alt="" coords="427,107,574,133"/>
+<area shape="rect" id="node6" href="$class_slic3r_1_1_g_u_i_1_1_u_i___num_choice.html" title=" " alt="" coords="408,157,593,184"/>
+<area shape="rect" id="node7" href="$class_slic3r_1_1_g_u_i_1_1_u_i___spin_ctrl.html" title=" " alt="" coords="419,208,582,235"/>
+<area shape="rect" id="node8" href="$class_slic3r_1_1_g_u_i_1_1_u_i___text_ctrl.html" title=" " alt="" coords="419,259,582,285"/>
+<area shape="rect" id="node2" href="$class_slic3r_1_1_g_u_i_1_1_u_i___field.html" title=" " alt="" coords="5,132,149,159"/>
+</map>

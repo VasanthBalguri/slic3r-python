@@ -1,0 +1,15 @@
+<map id="src/GUI/Dialogs/PresetEditor.hpp" name="src/GUI/Dialogs/PresetEditor.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="242,5,458,32"/>
+<area shape="rect" id="node2" href="$_material_editor_8cpp.html" title=" " alt="" coords="5,80,172,121"/>
+<area shape="rect" id="node3" href="$_preset_editor_8cpp.html" title=" " alt="" coords="193,244,409,271"/>
+<area shape="rect" id="node4" href="$_print_editor_8cpp.html" title=" " alt="" coords="247,87,453,114"/>
+<area shape="rect" id="node5" href="$_printer_editor_8cpp.html" title=" " alt="" coords="477,87,693,114"/>
+<area shape="rect" id="node6" href="$_main_frame_8hpp.html" title=" " alt="" coords="717,87,879,114"/>
+<area shape="rect" id="node7" href="$src_2_g_u_i_2_g_u_i_8cpp.html" title=" " alt="" coords="543,244,664,271"/>
+<area shape="rect" id="node8" href="$_plater_8hpp.html" title=" " alt="" coords="733,169,863,196"/>
+<area shape="rect" id="node11" href="$_plater_8cpp.html" title=" " alt="" coords="907,244,1038,271"/>
+<area shape="rect" id="node12" href="$_g_u_i_8hpp.html" title=" " alt="" coords="536,169,657,196"/>
+<area shape="rect" id="node13" href="$_main_frame_8cpp.html" title=" " alt="" coords="938,169,1101,196"/>
+<area shape="rect" id="node9" href="$_plate2_d_8hpp.html" title=" " alt="" coords="700,244,883,271"/>
+<area shape="rect" id="node10" href="$_plate2_d_8cpp.html" title=" " alt="" coords="700,319,883,345"/>
+</map>

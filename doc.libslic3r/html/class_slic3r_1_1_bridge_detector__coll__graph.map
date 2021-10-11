@@ -1,0 +1,7 @@
+<map id="Slic3r::BridgeDetector" name="Slic3r::BridgeDetector">
+<area shape="rect" id="node1" title=" " alt="" coords="75,260,226,287"/>
+<area shape="rect" id="node2" href="$class_slic3r_1_1_ex_polygon_collection.html" title=" " alt="" coords="5,171,189,197"/>
+<area shape="rect" id="node3" href="$class_slic3r_1_1_ex_polygon.html" title=" " alt="" coords="214,171,341,197"/>
+<area shape="rect" id="node4" href="$class_slic3r_1_1_polygon.html" title=" " alt="" coords="222,81,333,108"/>
+<area shape="rect" id="node5" href="$class_slic3r_1_1_multi_point.html" title=" " alt="" coords="217,5,338,32"/>
+</map>

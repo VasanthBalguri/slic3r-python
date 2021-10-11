@@ -1,0 +1,7 @@
+<map id="Slic3r::GUI::UI_Checkbox" name="Slic3r::GUI::UI_Checkbox">
+<area shape="rect" id="node1" title=" " alt="" coords="5,336,180,363"/>
+<area shape="rect" id="node2" href="$class_slic3r_1_1_g_u_i_1_1_u_i___window.html" title="Organizing class for single&#45;part UI elements." alt="" coords="11,260,174,287"/>
+<area shape="rect" id="node3" href="$class_slic3r_1_1_g_u_i_1_1_u_i___field.html" title=" " alt="" coords="21,184,165,211"/>
+<area shape="rect" id="node4" href="$class_slic3r_1_1_config_option_def.html" title="Definition of a configuration value for the purpose of GUI presentation, editing, value mapping and c..." alt="" coords="13,95,173,121"/>
+<area shape="rect" id="node5" href="$class_slic3r_1_1_config_option.html" title="Public interface for configuration options." alt="" coords="23,5,162,32"/>
+</map>

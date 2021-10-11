@@ -1,0 +1,6 @@
+<map id="Slic3r::ConfigOptionFloats" name="Slic3r::ConfigOptionFloats">
+<area shape="rect" id="node1" title="Vector form of template specialization for floating point numbers." alt="" coords="21,244,196,271"/>
+<area shape="rect" id="node2" href="$class_slic3r_1_1_config_option_vector.html" title=" " alt="" coords="20,155,197,196"/>
+<area shape="rect" id="node3" href="$class_slic3r_1_1_config_option_vector_base.html" title="Virtual base class, represents value of a vector valued option (bools, ints, floats,..." alt="" coords="5,80,212,107"/>
+<area shape="rect" id="node4" href="$class_slic3r_1_1_config_option.html" title="Public interface for configuration options." alt="" coords="39,5,178,32"/>
+</map>

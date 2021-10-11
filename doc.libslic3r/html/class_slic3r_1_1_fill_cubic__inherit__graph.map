@@ -1,0 +1,5 @@
+<map id="Slic3r::FillCubic" name="Slic3r::FillCubic">
+<area shape="rect" id="node1" title=" " alt="" coords="19,155,134,181"/>
+<area shape="rect" id="node2" href="$class_slic3r_1_1_fill_rectilinear.html" title=" " alt="" coords="5,80,148,107"/>
+<area shape="rect" id="node3" href="$class_slic3r_1_1_fill.html" title="Abstract base class for the infill generators." alt="" coords="37,5,117,32"/>
+</map>

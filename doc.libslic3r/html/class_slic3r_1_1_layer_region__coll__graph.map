@@ -1,0 +1,7 @@
+<map id="Slic3r::LayerRegion" name="Slic3r::LayerRegion">
+<area shape="rect" id="node1" title=" " alt="" coords="583,88,719,115"/>
+<area shape="rect" id="node2" href="$class_slic3r_1_1_polyline_collection.html" title=" " alt="" coords="229,13,395,40"/>
+<area shape="rect" id="node3" href="$class_slic3r_1_1_extrusion_entity_collection.html" title=" " alt="" coords="207,88,417,115"/>
+<area shape="rect" id="node4" href="$class_slic3r_1_1_extrusion_entity.html" title=" " alt="" coords="5,88,157,115"/>
+<area shape="rect" id="node5" href="$class_slic3r_1_1_surface_collection.html" title=" " alt="" coords="229,148,395,175"/>
+</map>
